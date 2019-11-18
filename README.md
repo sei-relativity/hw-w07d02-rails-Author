@@ -21,7 +21,7 @@ Your homework for today is to practice! You're gonna create an app with one mode
   </tr>
   <tr>
     <td>last_name</td>
-    <td>boolean</td>
+    <td>string</td>
   </tr>
   <tr>
     <td>number_of_books</td>
