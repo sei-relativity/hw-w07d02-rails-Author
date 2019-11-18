@@ -8,7 +8,7 @@ Your homework for today is to practice! You're gonna create an app with one mode
 - Walk back through today lesson. Create a new Rails app called `books-app`. Instead of `Artist` you'll create an `Author` model. 
 - Come up with 4 fields that you want your author table to have (e.g.- publisher, genre, birthdate, first_name, last_name, pen_name)
 
-- You'll need to create your own seed data for your authors.
+- You'll need to add your own  data for the authors.
 
 ### The fields could be like this:
 
